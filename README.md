@@ -13,5 +13,6 @@ Les contraintes métier sont les suivantes :
 • Les partants d’une course sont numérotés à partir de 1, sans doublon ni trou. 
 
 V1.0 :
+
 • Création d'une API permettant de créer des courses et leurs partants, de stocker les informations en base de données et de les exposer au reste du SI par un message publié sur un bus. 
  
